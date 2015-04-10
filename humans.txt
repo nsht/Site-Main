@@ -3,11 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nishit Mohanan
 
-# THANKS
-
-    <name>
 
 # TECHNOLOGY COLOPHON
 

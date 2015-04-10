@@ -94,7 +94,13 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-
+   #Header-Main{
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+   }
+   
 
 
 
