@@ -4,6 +4,18 @@
         <title>Nishit Mohanan</title>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <link rel="manifest" href="/manifest.json">
+        <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+        <script>
+            var OneSignal = window.OneSignal || [];
+            OneSignal.push(["init", {
+            appId: "66badb37-262b-487e-b97d-8504880798d8",
+            autoRegister: false,
+            notifyButton: {
+            enable: true /* Set to false to hide */
+            }
+            }]);
+        </script>
 		
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
